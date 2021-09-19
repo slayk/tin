@@ -1,3 +1,5 @@
+# TinDog
+
 A basic frontend website - Tindog AKA Tinder for Dogs. Dogs are adorable.
 
 Here, I have used basic HTML, CSS, and Bootstrapping. The website is responsive and features 6 different sections.
